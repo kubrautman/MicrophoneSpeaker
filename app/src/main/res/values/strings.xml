@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">"Convert Speech to Text "</string>
+    <string name="hint">Yazdırmak için mikrofona tıkla!</string>
+
+</resources>
